@@ -1,0 +1,13 @@
+services:
+  nginx:
+    build:
+      dockerfile: Dockerfile
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.recipes.rule=Host(`rezept.marcom.one`)"
+    networks:
+      - traefik_web
+
+networks:
+  traefik_web:
+    external: true
