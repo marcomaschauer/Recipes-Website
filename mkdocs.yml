@@ -1,5 +1,3 @@
 site_name: Marcos Rezepte
 site_url: https://rezept.marcom.one/
-nav:
-    - Home: index.md
-    - Kategorien: kategorien.md
+theme: mkdocs
