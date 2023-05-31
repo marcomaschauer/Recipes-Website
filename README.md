@@ -15,4 +15,4 @@ Description  : "Naan ist ein aus Indien stammendes Brot."
 ```
 5. Add an Image in `/themes/lightbi/static/img/posts` and don't forget to edit the file name in the meta info
 6. After you added all your content use `hugo` to build the site
-7. Now you can edit the Dockerfile and docker-compoye.yml to fit your systems needs and run via `docker compose up -d`
+7. Now you can edit the Dockerfile and docker-compose.yml to fit your systems needs and run via `docker compose up -d`
