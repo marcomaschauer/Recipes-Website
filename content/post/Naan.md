@@ -3,7 +3,7 @@ title: "Naan"
 date: 2023-05-31T09:11:12+02:00
 tags: ["Backen", "Brot"]
 image : "/img/posts/naan.jpg"
-Description  : "Naan ist ein aus Indein stammenden Brot."
+Description  : "Naan ist ein aus Indien stammendes Brot."
 ---
 # Naan
 ## Zutaten
