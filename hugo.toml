@@ -1,0 +1,4 @@
+baseURL = 'https://rezept.marcom.one/'
+languageCode = 'de'
+title = 'Marcos Rezepte'
+theme = 'lightbi'
