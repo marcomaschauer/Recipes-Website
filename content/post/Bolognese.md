@@ -1,9 +1,11 @@
 ---
-title: "Bolognese"
+title: "Bolognese Soße"
 date: 2023-05-31T09:11:12+02:00
-draft: true
+tags: ["Fleisch", "Soße"]
+image : "/img/posts/bolognese.jpg"
+Description  : "Wie bei vielem ist auch beim Kochen weniger mehr. Das beschreibt die Bolognese Soße am Besten!"
 ---
-
+[comment]: <> (Bilder liegen unter /Recipes-Website/themes/lightbi/static/img/posts)
 # Bolognese
 ## Zutaten
 - 350g Hackfleisch
