@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Marcos Rezepte</title>
+    <link>https://rezept.marcom.one/tags/</link>
+    <description>Recent content in Tags on Marcos Rezepte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 31 May 2023 09:11:12 +0200</lastBuildDate><atom:link href="https://rezept.marcom.one/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backen</title>
+      <link>https://rezept.marcom.one/tags/backen/</link>
+      <pubDate>Wed, 31 May 2023 09:11:12 +0200</pubDate>
+      
+      <guid>https://rezept.marcom.one/tags/backen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brot</title>
+      <link>https://rezept.marcom.one/tags/brot/</link>
+      <pubDate>Wed, 31 May 2023 09:11:12 +0200</pubDate>
+      
+      <guid>https://rezept.marcom.one/tags/brot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fleisch</title>
+      <link>https://rezept.marcom.one/tags/fleisch/</link>
+      <pubDate>Wed, 31 May 2023 09:11:12 +0200</pubDate>
+      
+      <guid>https://rezept.marcom.one/tags/fleisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soße</title>
+      <link>https://rezept.marcom.one/tags/so%C3%9Fe/</link>
+      <pubDate>Wed, 31 May 2023 09:11:12 +0200</pubDate>
+      
+      <guid>https://rezept.marcom.one/tags/so%C3%9Fe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
