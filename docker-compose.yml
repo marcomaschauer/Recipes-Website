@@ -4,14 +4,11 @@ services:
       dockerfile: Dockerfile
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.stardewvalley.rule=Host(`rezept.marcom.one`)"
-    volumes:
-      - /home/marcomaschauer/Docker/Recipes-Website/content/post:/usr/Recipes-Website/content/post
-      - /home/marcomaschauer/Docker/Recipes-Website/themes/lightbi/static/img/posts:/usr/Recipes-Website/themes/lightbi/static/img/posts
+      - "traefik.http.routers.rezept.rule=Host(`rezept.marcom.one`)"
     networks:
       - traefik_web
     ports:
-      - 1313:1313
+      - 85:80
     restart: unless-stopped
 
 networks:

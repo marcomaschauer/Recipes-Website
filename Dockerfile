@@ -1,9 +1,5 @@
-FROM debian:stable-slim
-WORKDIR /usr/Recipes-Website
-ENV TZ="Europe/Berlin"
+FROM nginx
 
-RUN apt install hugo
+WORKDIR /usr/share/nginx/html
 
-COPY . . 
-
-CMD ["hugo", "server"]
+COPY ./public .
