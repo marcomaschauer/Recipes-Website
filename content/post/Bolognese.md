@@ -19,8 +19,8 @@ Description  : "Wie bei vielem ist auch beim Kochen weniger mehr. Das beschreibt
 - 1 große Zwiebel
 - 2 Knoblauchzehen
 - 1 Karotte
-- Stange Sellerie
-- Weißwin
+- 1 Stange Sellerie
+- Weißwein
 
 
 ## Zubereitung
