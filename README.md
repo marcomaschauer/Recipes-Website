@@ -2,7 +2,7 @@
 
 1. You have to install the Hugo package: https://gohugo.io/
 2. Clone this Repository
-3. Add Posts/Recipes: `$ hugo new post/Naan.md`
+3. Add Posts/Recipes: `$ hugo new "post/Naan.md"`
 4. Add meta info inside your Markdown file:
 ```
 ---
