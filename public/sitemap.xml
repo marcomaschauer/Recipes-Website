@@ -2,25 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rezept.marcom.one/tags/backen/</loc>
+    <lastmod>2023-06-10T17:16:28+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/post/brownies/</loc>
+    <lastmod>2023-06-10T17:16:28+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/</loc>
+    <lastmod>2023-06-10T17:16:28+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/tags/nachtisch/</loc>
+    <lastmod>2023-06-10T17:16:28+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/post/</loc>
+    <lastmod>2023-06-10T17:16:28+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/tags/</loc>
+    <lastmod>2023-06-10T17:16:28+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/tags/brot/</loc>
+    <lastmod>2023-06-10T17:16:08+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/post/brot/</loc>
+    <lastmod>2023-06-10T17:16:08+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/post/beef-jerky/</loc>
+    <lastmod>2023-06-10T17:15:51+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/tags/fleisch/</loc>
+    <lastmod>2023-06-10T17:15:51+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/tags/snack/</loc>
+    <lastmod>2023-06-10T17:15:51+02:00</lastmod>
+  </url><url>
     <loc>https://rezept.marcom.one/post/basilikum-pesto/</loc>
     <lastmod>2023-06-10T13:03:00+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/tags/hauptgericht/</loc>
     <lastmod>2023-06-10T13:03:00+02:00</lastmod>
   </url><url>
-    <loc>https://rezept.marcom.one/</loc>
-    <lastmod>2023-06-10T13:03:00+02:00</lastmod>
-  </url><url>
     <loc>https://rezept.marcom.one/tags/pasta/</loc>
     <lastmod>2023-06-10T13:03:00+02:00</lastmod>
   </url><url>
-    <loc>https://rezept.marcom.one/post/</loc>
-    <lastmod>2023-06-10T13:03:00+02:00</lastmod>
-  </url><url>
     <loc>https://rezept.marcom.one/tags/so%C3%9Fe/</loc>
-    <lastmod>2023-06-10T13:03:00+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/tags/</loc>
     <lastmod>2023-06-10T13:03:00+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/tags/vegetarisch/</loc>
@@ -29,13 +53,7 @@
     <loc>https://rezept.marcom.one/post/apple-pie/</loc>
     <lastmod>2023-06-10T12:21:05+02:00</lastmod>
   </url><url>
-    <loc>https://rezept.marcom.one/tags/backen/</loc>
-    <lastmod>2023-06-10T12:21:05+02:00</lastmod>
-  </url><url>
     <loc>https://rezept.marcom.one/tags/kuchen/</loc>
-    <lastmod>2023-06-10T12:21:05+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/tags/nachtisch/</loc>
     <lastmod>2023-06-10T12:21:05+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/tags/pie/</loc>
@@ -45,9 +63,6 @@
     <lastmod>2023-06-01T16:17:55+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/post/dumplings/</loc>
-    <lastmod>2023-06-01T16:17:55+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/tags/fleisch/</loc>
     <lastmod>2023-06-01T16:17:55+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/tags/teigtaschen/</loc>
@@ -75,9 +90,6 @@
     <lastmod>2023-05-31T09:11:12+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/post/bolognese/</loc>
-    <lastmod>2023-05-31T09:11:12+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/tags/brot/</loc>
     <lastmod>2023-05-31T09:11:12+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/post/naan/</loc>
