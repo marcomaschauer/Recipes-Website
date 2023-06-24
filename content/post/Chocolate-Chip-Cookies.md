@@ -29,5 +29,3 @@ Description  : "Ein Chocolate Chip Cookie ist ein Tropfenkeks, der Schokoladenst
 ## Anmerkungen
 - Der Teig kann bis zu drei Tage im Kühlschrank ruhen, um den Geschmack zu intensivieren.
 - Zum Formen der Kekse kann ein Eisportionierer verwendet werden.
-
-Hier wurden einige kleine Anpassungen vorgenommen, um die Konsistenz und die Grammatik zu verbessern. Viel Spaß beim Backen und Genießen der leckeren Chocolate Chip Cookies!
