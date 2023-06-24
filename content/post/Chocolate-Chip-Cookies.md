@@ -3,7 +3,7 @@ title: "Chocolate Chip Cookies"
 date: 2023-06-24T16:17:31+02:00
 tags: ["Backen", "Kekse", "Vegetarisch", "Nachtisch"]
 image : "/img/posts/choco-cookies.jpg"
-Description  : "Chocolate Chip Cookies ist der wohl bekannteste Keks in Amerika"
+Description  : "Ein Chocolate Chip Cookie ist ein Tropfenkeks, der Schokoladenstückchen als charakteristische Zutat enthält."
 ---
 # Chocolate Chip Cookies
 ## Zutaten
