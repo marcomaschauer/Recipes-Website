@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rezept.marcom.one/</loc>
+    <lastmod>2023-10-15T17:17:53+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/post/pizzateig/</loc>
+    <lastmod>2023-10-15T17:17:53+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/post/</loc>
+    <lastmod>2023-10-15T17:17:53+02:00</lastmod>
+  </url><url>
     <loc>https://rezept.marcom.one/tags/backen/</loc>
     <lastmod>2023-06-24T16:17:31+02:00</lastmod>
   </url><url>
@@ -11,13 +20,7 @@
     <loc>https://rezept.marcom.one/tags/kekse/</loc>
     <lastmod>2023-06-24T16:17:31+02:00</lastmod>
   </url><url>
-    <loc>https://rezept.marcom.one/</loc>
-    <lastmod>2023-06-24T16:17:31+02:00</lastmod>
-  </url><url>
     <loc>https://rezept.marcom.one/tags/nachtisch/</loc>
-    <lastmod>2023-06-24T16:17:31+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/post/</loc>
     <lastmod>2023-06-24T16:17:31+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/tags/</loc>

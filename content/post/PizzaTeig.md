@@ -2,7 +2,6 @@
 title: "PizzaTeig"
 date: 2023-10-15T17:17:53+02:00
 image : "/img/posts/pizza_dough.jpg"
-draft: true
 ---
 # Pizzateig
 
