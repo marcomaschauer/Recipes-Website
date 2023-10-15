@@ -1,5 +1,5 @@
 ---
-title: "BackfischBierteig"
+title: "Backfisch im Bierteig"
 date: 2023-10-15T17:19:30+02:00
 image : "/img/posts/fish_chips.jpg"
 tags: ["Frittieren", "Teig", "Vegetarisch", "Fisch"]

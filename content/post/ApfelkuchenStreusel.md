@@ -1,12 +1,10 @@
 ---
-title: "ApfelkuchenStreusel"
+title: "Apfelkuchen mit Streusel"
 date: 2023-10-15T19:20:20+02:00
 image : "/img/posts/apple_crumble_pie.jpg"
 tags: ["Backen", "Kuchen", "Pie", "Vegetarisch", "Nachtisch"]
 Description: Apfelkuchen ist eines der ältesten bekannten Desserts und es gibt Rezepte dafür, die bis ins Mittelalter zurückreichen. 🍏🥧📜
 ---
-
-# Apfelkuchen mit Streusel
 
 ## Zutaten
 
