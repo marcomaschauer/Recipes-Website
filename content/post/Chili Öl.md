@@ -5,7 +5,6 @@ tags: ["Öl", "Chili", "Andere"]
 image : "/img/posts/chili_oil.jpg"
 Description: "Chiliöl ist eines der besten Öle, die man selbst machen kann. Im Geschmack einfach unglaublich gut."
 ---
-# Chiliöl
 ## Zutaten
 ### Öl
 

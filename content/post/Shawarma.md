@@ -5,7 +5,6 @@ tags: ["Fleisch", "Hauptgericht", "Tortilla"]
 image : "/img/posts/shawarma.jpg"
 Description  : "Shawarma ist ein Fleischgericht der arabischen Küche. Genau wie Döner wird Shawarma klassisch auf einem Drehspieß gegart."
 ---
-# Shawarma
 ## Zutaten
 ### Marinade
 - 2 Tbsp Yohgurt

@@ -5,7 +5,6 @@ tags: ["Backen", "Kuchen", "Pie", "Vegetarisch", "Nachtisch"]
 image : "/img/posts/apple-pie.jpg"
 Description  : "Apple Pie ist der wohl bekannteste Kuchen in Amerika"
 ---
-# Apple Pie
 ## Zutaten
 ### Teig:
 - 420g Mehl

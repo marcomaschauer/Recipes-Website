@@ -5,7 +5,6 @@ tags: ["Backen", "Nachtisch"]
 image : "/img/posts/brownie.jpg"
 Description  : "Ein Brownie ist ein traditionelles Gebäck der US-amerikanischen Küche und zeichnet sich durch sein weiches inneres aus."
 ---
-# Brownies
 ## Zutaten
 - 230 g Zartbitterschokolade
 - 130 g Butter

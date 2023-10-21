@@ -5,7 +5,6 @@ image : "/img/posts/bruscetta.jpg"
 tags: ["Brot", "Vegan", "Tomaten", "Italienisch"]
 Description: Bruscetta stammt ursprünglich aus Italien und der Name leitet sich vom italienischen Wort "bruscare" ab, was "anrösten" bedeutet, in Bezug auf das geröstete Brot, auf dem die Tomatenmischung serviert wird.
 ---
-# Bruscetta
 
 ## Zutaten:
 - 12 Scheiben Ciabatta

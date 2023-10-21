@@ -5,7 +5,6 @@ tags: ["Soße", "Pasta", "Vegetarisch", "Hauptgericht"]
 image : "/img/posts/basilikum-pesto.jpg"
 Description  : "Pesto ist eine ungekochte Paste, die in der italienischen Küche meist mit Nudeln vermischt gereicht wird."
 ---
-# Basilikumpesto
 ## Zutaten
 
 - 40 g Pinienkerne

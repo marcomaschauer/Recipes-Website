@@ -5,7 +5,6 @@ tags: ["Brot", "Backen"]
 image : "/img/posts/brot.jpg"
 Description  : "Brot ist ein traditionelles Nahrungsmittel, das aus einem Teig aus gemahlenem Getreide, Wasser, einem Triebmittel und meist weiteren Zutaten gebacken wird."
 ---
-# Weizenbrot
 ## Zutaten
 
 - 500 g Weizenmehl

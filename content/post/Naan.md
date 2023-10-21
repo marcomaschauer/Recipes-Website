@@ -5,7 +5,6 @@ tags: ["Backen", "Brot", "Beilage"]
 image : "/img/posts/naan.jpg"
 Description  : "Naan ist ein aus Indien stammendes Brot. Es wird meist zu Curry serviert, kann aber auch als Vorspeise verkostet werden."
 ---
-# Naan
 ## Zutaten
 
 - 120 ml Wasser

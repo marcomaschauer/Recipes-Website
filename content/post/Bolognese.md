@@ -7,7 +7,6 @@ Description  : "Wie bei vielem ist auch beim Kochen weniger mehr. Das beschreibt
 ---
 [comment]: <> (Bilder liegen unter /Recipes-Website/themes/lightbi/static/img/posts)
 
-# Bolognese
 ## Zutaten
 
 - 350 g Hackfleisch

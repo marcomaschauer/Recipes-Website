@@ -5,7 +5,6 @@ tags: ["Backen", "Kekse", "Vegetarisch", "Nachtisch"]
 image : "/img/posts/choco-cookies.jpg"
 Description  : "Ein Chocolate Chip Cookie ist ein Tropfenkeks, der Schokoladenstückchen als charakteristische Zutat enthält."
 ---
-# Chocolate Chip Cookies
 ## Zutaten
 - 250 g Butter
 - 50 g Zucker

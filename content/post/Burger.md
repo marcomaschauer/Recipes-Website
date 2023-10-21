@@ -6,10 +6,8 @@ tags: ["Burger", "Vegetarisch", "Amerikanisch"]
 Description: Austernpilze bieten mit ihrer fleischigen Textur nicht nur eine leckere Alternative zu Fleisch, sondern sind auch reich an Protein, Ballaststoffen und B-Vitaminen.
 ---
 
-# Veggie Burger
-
 ## Zutaten:
-- 500g Austernpilze, fein gehackt
+- 500g Austernpilze
 - 1 EL Salz
 - 1 EL Pfeffer
 - 1 EL Thymian
@@ -23,7 +21,7 @@ Description: Austernpilze bieten mit ihrer fleischigen Textur nicht nur eine lec
 
 ## Zubereitung:
 1. Die Austernpilze in einer Schüssel mit Salz, Pfeffer, Thymian und Knoblauch gut vermengen.
-2. Aus der Mischung Patties formen. Versuchen Sie, sie in der Größe und Dicke gleichmäßig zu halten, damit sie gleichmäßig garen.
+2. Aus der Mischung Patties formen. Versuche sie in der Größe und Dicke gleichmäßig zu halten, damit die Pilze gleichmäßig garen.
 3. Eine Pfanne auf mittlerer Stufe erhitzen und etwas Öl hinzufügen.
 4. Die Patties in die Pfanne legen und von jeder Seite etwa 4-5 Minuten braten, bis sie gut durchgebraten und leicht gebräunt sind.
 5. Kurz bevor die Patties fertig sind, Käsescheiben auf jeden Pattie legen und kurz schmelzen lassen.

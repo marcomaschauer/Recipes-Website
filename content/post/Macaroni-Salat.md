@@ -5,7 +5,6 @@ tags: ["Salat", "Fleisch", "Vegan", "Pasta"]
 image : "/img/posts/macaroni-salat.jpg"
 Description  : "Macaroni-Salat ist, wie der Name schon sagt, ein Nudelsalat mit gekochten Macaroni und wird in der Regel mit Mayonnaise zubereitet."
 ---
-# Macaroni-Salat
 ## Zutaten
 
 - 250 g Macaroni

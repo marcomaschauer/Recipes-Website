@@ -5,7 +5,6 @@ image : "/img/posts/fish_chips.jpg"
 tags: ["Frittieren", "Teig", "Vegetarisch", "Fisch"]
 Description: Fish and Chips hat seinen Ursprung im 19. Jahrhundert, als jüdische Einwanderer aus Portugal und Spanien die Idee des panierten Fischs nach Großbritannien brachten.
 ---
-# Backfisch im Bierteig
 
 ## Zutaten:
 - 500g Fischfilet (oder als vegetarische Alternative: 250g Austernpilze)
