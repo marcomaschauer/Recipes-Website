@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rezept.marcom.one/tags/backen/</loc>
+    <lastmod>2024-02-24T10:39:46+01:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/tags/kuchen/</loc>
+    <lastmod>2024-02-24T10:39:46+01:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/</loc>
+    <lastmod>2024-02-24T10:39:46+01:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/post/nystylecheesecake/</loc>
+    <lastmod>2024-02-24T10:39:46+01:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/post/</loc>
+    <lastmod>2024-02-24T10:39:46+01:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/tags/</loc>
+    <lastmod>2024-02-24T10:39:46+01:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/post/franzbroetchen/</loc>
+    <lastmod>2023-10-24T22:40:05+02:00</lastmod>
+  </url><url>
+    <loc>https://rezept.marcom.one/tags/geb%C3%A4ck/</loc>
+    <lastmod>2023-10-24T22:40:05+02:00</lastmod>
+  </url><url>
     <loc>https://rezept.marcom.one/tags/dahl/</loc>
     <lastmod>2023-10-21T14:41:06+02:00</lastmod>
   </url><url>
@@ -9,15 +33,6 @@
     <lastmod>2023-10-21T14:41:06+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/post/linsendahl/</loc>
-    <lastmod>2023-10-21T14:41:06+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/</loc>
-    <lastmod>2023-10-21T14:41:06+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/post/</loc>
-    <lastmod>2023-10-21T14:41:06+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/tags/</loc>
     <lastmod>2023-10-21T14:41:06+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/tags/vegan/</loc>
@@ -45,12 +60,6 @@
     <lastmod>2023-10-15T20:00:53+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/post/apfelkuchenstreusel/</loc>
-    <lastmod>2023-10-15T19:20:20+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/tags/backen/</loc>
-    <lastmod>2023-10-15T19:20:20+02:00</lastmod>
-  </url><url>
-    <loc>https://rezept.marcom.one/tags/kuchen/</loc>
     <lastmod>2023-10-15T19:20:20+02:00</lastmod>
   </url><url>
     <loc>https://rezept.marcom.one/tags/nachtisch/</loc>
