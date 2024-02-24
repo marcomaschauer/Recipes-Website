@@ -3,7 +3,7 @@ title: "Franzbrötchen"
 date: 2023-10-24T22:40:05+02:00
 tags: ["Backen", "Gebäck"]
 image : "/img/posts/franzbroetchen.jpg"
-Description  : "Naan ist ein aus Indien stammendes Brot."
+Description  : "Das Franzbrötchen entstand in Hamburg während der französischen Besatzung, als Bäcker das Croissant adaptierten und mit Zimt und Zucker verfeinerten."
 ---
 
 ## Zutaten
