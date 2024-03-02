@@ -15,7 +15,7 @@ Description  : "Kichererbsen, Hauptzutat in Marry Me Chickpeas, wurden schon vor
 - 4 Knoblauchzehen
 - 3 Zweige frischer Thymian
 - 1 kleines Glas abgetropfte, sonnengetrocknete Tomaten (200g)
-- 200ml vegane Sahne (nutze mein Seidentofu-Rezept)
+- 200ml vegane Sahne
 - 100ml heißes Wasser
 - 2 EL Hefeflocken
 - 1 TL Misopaste

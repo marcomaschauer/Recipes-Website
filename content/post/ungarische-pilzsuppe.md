@@ -9,7 +9,7 @@ Description  : "Die ungarische Pilzsuppe, bekannt für ihre reichhaltige Cremigk
 ## Zutaten
 
 - 4 EL gesalzene Butter
-- 1 ½ Tassen weiße Zwiebeln, gehackt
+- 1 große weiße Zwiebel, gehackt
 - 450 g Pilze, geschnitten (z.B. Crimini, Champignons)
 - 2 TL getrockneter Dill
 - 1 TL getrockneter Thymian
@@ -19,8 +19,8 @@ Description  : "Die ungarische Pilzsuppe, bekannt für ihre reichhaltige Cremigk
 - 2 ½ Tassen Brühe
 - 2 EL Sojasauce
 - 3 EL Mehl
-- 1 Tasse Halb und Halb oder Milch
-- 1/3 Tasse saure Sahne oder Crème fraîche
+- 240 ML Sahne oder Milch
+- 100 ML saure Sahne oder Crème fraîche
 - 3 EL gehackte Petersilie
 
 ## Zubereitung
