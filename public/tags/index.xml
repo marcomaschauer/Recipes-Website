@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Marcos Rezepte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 02 Mar 2024 17:30:24 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 19:48:52 +0100</lastBuildDate>
     <atom:link href="https://rezept.marcom.one/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beilage</title>
+      <link>https://rezept.marcom.one/tags/beilage/</link>
+      <pubDate>Tue, 05 Mar 2024 19:48:52 +0100</pubDate>
+      <guid>https://rezept.marcom.one/tags/beilage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fermentieren</title>
+      <link>https://rezept.marcom.one/tags/fermentieren/</link>
+      <pubDate>Tue, 05 Mar 2024 19:48:52 +0100</pubDate>
+      <guid>https://rezept.marcom.one/tags/fermentieren/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Koreanisch</title>
+      <link>https://rezept.marcom.one/tags/koreanisch/</link>
+      <pubDate>Tue, 05 Mar 2024 19:48:52 +0100</pubDate>
+      <guid>https://rezept.marcom.one/tags/koreanisch/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Curry</title>
       <link>https://rezept.marcom.one/tags/curry/</link>
@@ -258,13 +279,6 @@
       <link>https://rezept.marcom.one/tags/%C3%B6l/</link>
       <pubDate>Thu, 01 Jun 2023 15:45:04 +0200</pubDate>
       <guid>https://rezept.marcom.one/tags/%C3%B6l/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Beilage</title>
-      <link>https://rezept.marcom.one/tags/beilage/</link>
-      <pubDate>Wed, 31 May 2023 09:11:12 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/beilage/</guid>
       <description></description>
     </item>
   </channel>
