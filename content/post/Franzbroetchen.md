@@ -20,15 +20,15 @@ Description  : "Das Franzbrötchen entstand in Hamburg während der französisch
 
 ## Zubereitung
 
-1. **Hefeteig vorbereiten:** Die Milch leicht erwärmen (sie sollte handwarm sein) und die Hefe darin auflösen. In einer großen Schüssel Mehl, Zucker, Vanillezucker und Salz mischen. Die aufgelöste Hefemischung hinzufügen und alles zu einem glatten Teig verkneten. Abdecken und an einem warmen Ort etwa 1 Stunde gehen lassen, bis der Teig sich verdoppelt hat.
+1. **Hefeteig vorbereiten:** Die Milch leicht erwärmen (sie sollte handwarm sein) und die Hefe, den weißen Zucker und Vanillezucker darin auflösen. In einer großen Schüssel Mehl und Salz mischen. 100g der weichen Butter dazu geben. Die aufgelöste Hefemischung hinzufügen und alles zu einem glatten Teig verkneten. Abdecken und an einem warmen Ort etwa 1 Stunde gehen lassen, bis der Teig sich verdoppelt hat.
 
-2. **Füllung vorbereiten:** 150 g der weichen Butter mit dem braunen Zucker und dem Zimt vermengen, bis eine geschmeidige Paste entsteht.
+2. **Füllung vorbereiten:** Den braunen Zucker und das Zimt vermengen, bis es gut vermischt ist.
 
-3. **Teig ausrollen:** Den aufgegangenen Teig auf einer bemehlten Arbeitsfläche zu einem Rechteck (ca. 40x60 cm) ausrollen. Die restlichen 50 g weiche Butter gleichmäßig auf dem Teig verteilen. Anschließend die Zimt-Zucker-Paste gleichmäßig darauf verstreichen.
+3. **Teig ausrollen:** Den aufgegangenen Teig auf einer bemehlten Arbeitsfläche zu einem Rechteck (ca. 40x50 cm) ausrollen. Die restlichen 100g weiche Butter gleichmäßig auf dem Teig verstreichen. Zimt-Zucker-Mischung gleichmäßig darauf verteilen.
 
-4. **Formen der Franzbrötchen:** Den Teig von der längeren Seite her aufrollen, sodass eine lange Rolle entsteht. Mit einem scharfen Messer in ca. 4-5 cm breite Stücke schneiden. Die Stücke mit der Schnittfläche nach oben auf ein mit Backpapier belegtes Backblech setzen und leicht flach drücken.
+4. **Formen der Franzbrötchen:** Den Teig von der längeren Seite her fest aufrollen, sodass eine lange Rolle entsteht. Mit einem scharfen Messer in ca. 12 Stücke trapezförmig schneiden. Die Stücke mit Abstand auf ein mit Backpapier belegtes Backblech setzen und mir dem Stiehl eines Kochlöffels in der mitte eindrücken, um die klassische Form zu erziehlen. Vor dem Backen müssen die Franzbrötchen abgedeckt 45 Minuten abgedeckt ruhen. 
 
-5. **Backen:** Im vorgeheizten Ofen bei 180°C (Ober-/Unterhitze) ca. 20-25 Minuten backen, bis die Franzbrötchen goldbraun sind.
+5. **Backen:** Im vorgeheizten Ofen bei 180°C (Ober-/Unterhitze) ca. 15-20 Minuten backen, bis die Franzbrötchen goldbraun sind.
 
 6. **Abkühlen lassen & genießen:** Die Franzbrötchen aus dem Ofen nehmen und auf einem Kuchengitter auskühlen lassen. Warm schmecken sie am besten!
 
