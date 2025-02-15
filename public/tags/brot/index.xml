@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brot on Marcos Rezepte</title>
-    <link>http://localhost:1313/tags/brot/</link>
+    <link>https://rezept.marcom.one/tags/brot/</link>
     <description>Recent content in Brot on Marcos Rezepte</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sun, 15 Oct 2023 20:00:53 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/brot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rezept.marcom.one/tags/brot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bruscetta</title>
-      <link>http://localhost:1313/post/bruscetta/</link>
+      <link>https://rezept.marcom.one/post/bruscetta/</link>
       <pubDate>Sun, 15 Oct 2023 20:00:53 +0200</pubDate>
-      <guid>http://localhost:1313/post/bruscetta/</guid>
+      <guid>https://rezept.marcom.one/post/bruscetta/</guid>
       <description>Zutaten: 12 Scheiben Ciabatta 9 EL Olivenöl 12 Tomaten 2 Knoblauchzehen 2 Frühlingszwiebeln 3 TL Weißweinessig 2 TL italienische Kräuter Salz Pfeffer Zubereitung: Ciabatta-Scheiben mit etwas Olivenöl in der Pfanne von beiden Seiten goldbraun anbraten. Tomaten würfeln. Knoblauch und Frühlingszwiebeln fein hacken und zu den Tomaten geben. Olivenöl, Weißweinessig, italienische Kräuter, Salz und Pfeffer in einer Schüssel vermengen und zur Tomatenmischung hinzufügen. Alles gut vermischen und für 2 Stunden im Kühlschrank ziehen lassen.</description>
     </item>
     <item>
       <title>Weizenbrot</title>
-      <link>http://localhost:1313/post/brot/</link>
+      <link>https://rezept.marcom.one/post/brot/</link>
       <pubDate>Sat, 10 Jun 2023 17:16:08 +0200</pubDate>
-      <guid>http://localhost:1313/post/brot/</guid>
+      <guid>https://rezept.marcom.one/post/brot/</guid>
       <description>Zutaten 500 g Weizenmehl Hefe 300 ml Wasser 1/2 EL Salz 1/2 TL Salz Zubereitung Als Erstes die Hefe im Wasser auflösen. Das Mehl und das Salz mit dem Wasser vermischen und zu einem Teig kneten. Den Teig abgedeckt mindestens zwei Stunden lang gehen lassen oder bis er sich verdoppelt hat. Dann wird der Teig mehrmals mittels falten und ziehen geknetet, um ihn zu festigen. Den Backofen auf 230°C vorheizen, idealerweise mit einem Schmortopf darin.</description>
     </item>
     <item>
       <title>Naan</title>
-      <link>http://localhost:1313/post/naan/</link>
+      <link>https://rezept.marcom.one/post/naan/</link>
       <pubDate>Wed, 31 May 2023 09:11:12 +0200</pubDate>
-      <guid>http://localhost:1313/post/naan/</guid>
+      <guid>https://rezept.marcom.one/post/naan/</guid>
       <description>Zutaten 120 ml Wasser 1 TL Zucker Hefe 60 g Joghurt 240 g Mehl 1/2 TL Salz Zubereitung Alle Zutaten in eine Schüssel geben und gut durchrühren, bis der Teig zusammenkommt. Den Teig abgedeckt ca. 30 Minuten ruhen lassen. Den Teig nun in Stücke teilen und jeweils zu einer runden Form ausrollen. Die Naan in einer Pfanne bei mittlerer Hitze ohne Öl aufbacken. Anmerkung Nachdem die Naan aus der Pfanne kommen, mit flüssiger Knoblauchbutter bestreichen.</description>
     </item>
   </channel>

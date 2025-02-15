@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Öl on Marcos Rezepte</title>
-    <link>http://localhost:1313/tags/%C3%B6l/</link>
+    <link>https://rezept.marcom.one/tags/%C3%B6l/</link>
     <description>Recent content in Öl on Marcos Rezepte</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Thu, 01 Jun 2023 15:45:04 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%C3%B6l/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rezept.marcom.one/tags/%C3%B6l/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chili Öl</title>
-      <link>http://localhost:1313/post/chili-%C3%B6l/</link>
+      <link>https://rezept.marcom.one/post/chili-%C3%B6l/</link>
       <pubDate>Thu, 01 Jun 2023 15:45:04 +0200</pubDate>
-      <guid>http://localhost:1313/post/chili-%C3%B6l/</guid>
+      <guid>https://rezept.marcom.one/post/chili-%C3%B6l/</guid>
       <description>Zutaten Öl 10 g Koriandersamen 4 Kardamomkapseln 1 Zimtstange 5 Anissterne 20 g Szechuan-Pfefferkörner 4 große Knoblauchzehen 1 Liter neutrales Öl (Canola-/Erdnussöl) Restliche Zutaten 110 g Chiliflocken 10 g Salz 1 EL dunkler Essig Zubereitung Alle Zutaten für das Öl in einen Topf geben und bei 107°C bis 121°C 1 Stunde köcheln lassen. Das heiße Öl von den Zutaten trennen. Die Chiliflocken, das Salz und den Essig in eine hitzebeständige Schüssel geben und das noch heiße Öl darüber gießen.</description>
     </item>
   </channel>

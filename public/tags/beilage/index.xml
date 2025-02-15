@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beilage on Marcos Rezepte</title>
-    <link>http://localhost:1313/tags/beilage/</link>
+    <link>https://rezept.marcom.one/tags/beilage/</link>
     <description>Recent content in Beilage on Marcos Rezepte</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Tue, 05 Mar 2024 19:48:52 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/beilage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rezept.marcom.one/tags/beilage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kimchi</title>
-      <link>http://localhost:1313/post/kimchi/</link>
+      <link>https://rezept.marcom.one/post/kimchi/</link>
       <pubDate>Tue, 05 Mar 2024 19:48:52 +0100</pubDate>
-      <guid>http://localhost:1313/post/kimchi/</guid>
+      <guid>https://rezept.marcom.one/post/kimchi/</guid>
       <description>Zutaten 1 Kopf Chinakohl 1 Tasse Chiliflocken 2 EL geriebener Ingwer 5 EL gepresster Knoblauch 2 EL Zucker 1 Apfel 2 Zwiebeln 100ml Fischsoße Viel Salz (zum Entwässern des Kohls) 5 Frühlingszwiebeln (grüner Teil, zum Garnieren) Zubereitung Chinakohl in mundgerechte Stücke schneiden, Strunk entfernen und 2-3 mal waschen. Den geschnittenen Kohl mit viel Salz vermischen und mindestens 2 Stunden, am besten über Nacht, entwässern lassen. Gelegentlich umrühren. Den Apfel entkernen und zusammen mit den geschälten Zwiebeln in einem Mixer glatt mixen.</description>
     </item>
     <item>
       <title>Naan</title>
-      <link>http://localhost:1313/post/naan/</link>
+      <link>https://rezept.marcom.one/post/naan/</link>
       <pubDate>Wed, 31 May 2023 09:11:12 +0200</pubDate>
-      <guid>http://localhost:1313/post/naan/</guid>
+      <guid>https://rezept.marcom.one/post/naan/</guid>
       <description>Zutaten 120 ml Wasser 1 TL Zucker Hefe 60 g Joghurt 240 g Mehl 1/2 TL Salz Zubereitung Alle Zutaten in eine Schüssel geben und gut durchrühren, bis der Teig zusammenkommt. Den Teig abgedeckt ca. 30 Minuten ruhen lassen. Den Teig nun in Stücke teilen und jeweils zu einer runden Form ausrollen. Die Naan in einer Pfanne bei mittlerer Hitze ohne Öl aufbacken. Anmerkung Nachdem die Naan aus der Pfanne kommen, mit flüssiger Knoblauchbutter bestreichen.</description>
     </item>
   </channel>

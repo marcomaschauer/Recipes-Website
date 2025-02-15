@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curry on Marcos Rezepte</title>
-    <link>http://localhost:1313/tags/curry/</link>
+    <link>https://rezept.marcom.one/tags/curry/</link>
     <description>Recent content in Curry on Marcos Rezepte</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 02 Mar 2024 17:30:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/curry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rezept.marcom.one/tags/curry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marry Me Chickpeas</title>
-      <link>http://localhost:1313/post/marry-me-chickpeas/</link>
+      <link>https://rezept.marcom.one/post/marry-me-chickpeas/</link>
       <pubDate>Sat, 02 Mar 2024 17:30:24 +0100</pubDate>
-      <guid>http://localhost:1313/post/marry-me-chickpeas/</guid>
+      <guid>https://rezept.marcom.one/post/marry-me-chickpeas/</guid>
       <description>Zutaten 2 Dosen Kichererbsen 1 TL geräuchertes Paprikapulver 1 TL Oregano Ein Spritzer oder Spray Öl 4 Knoblauchzehen 3 Zweige frischer Thymian 1 kleines Glas abgetropfte, sonnengetrocknete Tomaten (200g) 200ml vegane Sahne 100ml heißes Wasser 2 EL Hefeflocken 1 TL Misopaste Frische Petersilie zum Garnieren Frischer Zitronensaft zum Garnieren Eine Prise Chiliflocken zum Garnieren Brot oder Getreide nach Wahl Zubereitung Kichererbsen abgießen und auf ein Backblech verteilen. Mit Paprikapulver, Oregano und Öl würzen und 15 Minuten im Ofen bei 180°C backen.</description>
     </item>
   </channel>

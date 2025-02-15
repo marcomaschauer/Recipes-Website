@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indisch on Marcos Rezepte</title>
-    <link>http://localhost:1313/tags/indisch/</link>
+    <link>https://rezept.marcom.one/tags/indisch/</link>
     <description>Recent content in Indisch on Marcos Rezepte</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 21 Oct 2023 14:41:06 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/indisch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rezept.marcom.one/tags/indisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linsen Dahl</title>
-      <link>http://localhost:1313/post/linsendahl/</link>
+      <link>https://rezept.marcom.one/post/linsendahl/</link>
       <pubDate>Sat, 21 Oct 2023 14:41:06 +0200</pubDate>
-      <guid>http://localhost:1313/post/linsendahl/</guid>
+      <guid>https://rezept.marcom.one/post/linsendahl/</guid>
       <description>Zutaten: 240g rote Linsen 5 Würfel Spinat (gefroren) 2 ganze Tomaten 1 Brühwürfel Olivenöl und Joghurt zum Garnieren 1 EL Currypulver Zubereitung: Alle Zutaten zusammen mit 2 Tassen heißem Wasser in einen Topf geben. Auf kleiner Flamme 15 Minuten köcheln lassen und dabei umrühren, damit es nicht anbrennt. Wenn es zu trocken wird, etwas zusätzliches Wasser hinzufügen. Danach den Herd ausschalten und einige Minuten ziehen lassen, bis es eindickt. Guten Appetit!</description>
     </item>
   </channel>

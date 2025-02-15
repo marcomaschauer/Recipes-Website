@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pasta on Marcos Rezepte</title>
-    <link>http://localhost:1313/tags/pasta/</link>
+    <link>https://rezept.marcom.one/tags/pasta/</link>
     <description>Recent content in Pasta on Marcos Rezepte</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Wed, 14 Jun 2023 13:25:42 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rezept.marcom.one/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macaroni Salat</title>
-      <link>http://localhost:1313/post/macaroni-salat/</link>
+      <link>https://rezept.marcom.one/post/macaroni-salat/</link>
       <pubDate>Wed, 14 Jun 2023 13:25:42 +0200</pubDate>
-      <guid>http://localhost:1313/post/macaroni-salat/</guid>
+      <guid>https://rezept.marcom.one/post/macaroni-salat/</guid>
       <description>Zutaten 250 g Macaroni 250 g Fleischsalat 2 EL Mayonnaise 1 Dose Erbsen eine Handvoll saure Gurken Schnittlauch Zubereitung Zuerst die Nudeln kochen und abkühlen lassen. Die abgekühlten Nudeln mit dem Fleischsalat, den Gurken, den Erbsen, der Mayonnaise und dem Schnittlauch vermengen. Mit Salz und Pfeffer abschmecken. Bei Bedarf mehr Mayonnaise hinzufügen, um die Cremigkeit zu erhöhen. Anmerkungen Dieses Gericht lässt sich ganz einfach auch vegan zubereiten. Einfach den Fleischsalat und die Mayonnaise durch vegane Alternativen ersetzen.</description>
     </item>
     <item>
       <title>Basilikumpesto</title>
-      <link>http://localhost:1313/post/basilikum-pesto/</link>
+      <link>https://rezept.marcom.one/post/basilikum-pesto/</link>
       <pubDate>Sat, 10 Jun 2023 13:03:00 +0200</pubDate>
-      <guid>http://localhost:1313/post/basilikum-pesto/</guid>
+      <guid>https://rezept.marcom.one/post/basilikum-pesto/</guid>
       <description>Zutaten 40 g Pinienkerne 2 Knoblauchzehen 75 g frischer Basilikum 1/2 TL Salz 150 ml Olivenöl 50 g Parmesan Zubereitung Die Pinienkerne in einer Pfanne goldbraun rösten. Den Basilikum, das Salz und den Knoblauch in den Mixer oder Mörser geben und pürieren. Das Olivenöl dazugeben und die gerösteten Pinienkerne hinzufügen. Alles nochmals zerkleinern. Zum Schluss den Parmesan vorsichtig unterheben. Anmerkungen Das Pesto ist ca. 3-4 Tage im Kühlschrank haltbar. Für eine längere Aufbewahrung empfehle ich, den Parmesan wegzulassen und erst beim Zubereiten des Pesto Parmesan hinzuzufügen.</description>
     </item>
   </channel>

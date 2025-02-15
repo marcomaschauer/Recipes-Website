@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Koreanisch on Marcos Rezepte</title>
-    <link>http://localhost:1313/tags/koreanisch/</link>
+    <link>https://rezept.marcom.one/tags/koreanisch/</link>
     <description>Recent content in Koreanisch on Marcos Rezepte</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Tue, 05 Mar 2024 19:48:52 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/koreanisch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rezept.marcom.one/tags/koreanisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kimchi</title>
-      <link>http://localhost:1313/post/kimchi/</link>
+      <link>https://rezept.marcom.one/post/kimchi/</link>
       <pubDate>Tue, 05 Mar 2024 19:48:52 +0100</pubDate>
-      <guid>http://localhost:1313/post/kimchi/</guid>
+      <guid>https://rezept.marcom.one/post/kimchi/</guid>
       <description>Zutaten 1 Kopf Chinakohl 1 Tasse Chiliflocken 2 EL geriebener Ingwer 5 EL gepresster Knoblauch 2 EL Zucker 1 Apfel 2 Zwiebeln 100ml Fischsoße Viel Salz (zum Entwässern des Kohls) 5 Frühlingszwiebeln (grüner Teil, zum Garnieren) Zubereitung Chinakohl in mundgerechte Stücke schneiden, Strunk entfernen und 2-3 mal waschen. Den geschnittenen Kohl mit viel Salz vermischen und mindestens 2 Stunden, am besten über Nacht, entwässern lassen. Gelegentlich umrühren. Den Apfel entkernen und zusammen mit den geschälten Zwiebeln in einem Mixer glatt mixen.</description>
     </item>
   </channel>
