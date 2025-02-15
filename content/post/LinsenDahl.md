@@ -1,5 +1,5 @@
 ---
-title: "Linsen Dahl"
+title: "Dahl"
 date: 2023-10-21T14:41:06+02:00
 image : "/img/posts/linsen-dahl.jpg"
 tags: ["Indisch", "Vegetarisch", "Vegan", "Dahl"]
