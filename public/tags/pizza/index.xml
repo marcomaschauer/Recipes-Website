@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pizza on Marcos Rezepte</title>
-    <link>https://rezept.marcom.one/tags/pizza/</link>
+    <link>http://localhost:1313/tags/pizza/</link>
     <description>Recent content in Pizza on Marcos Rezepte</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sun, 15 Oct 2023 17:17:53 +0200</lastBuildDate>
-    <atom:link href="https://rezept.marcom.one/tags/pizza/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pizza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pizzateig</title>
-      <link>https://rezept.marcom.one/post/pizzateig/</link>
+      <link>http://localhost:1313/post/pizzateig/</link>
       <pubDate>Sun, 15 Oct 2023 17:17:53 +0200</pubDate>
-      <guid>https://rezept.marcom.one/post/pizzateig/</guid>
+      <guid>http://localhost:1313/post/pizzateig/</guid>
       <description>Zutaten: 500g Mehl 1 EL Zucker 3 TL Salz 1 EL Hefe 1 EL Olivenöl 300ml Wasser Zubereitung: Zuerst das Mehl, den Zucker und die Hefe in einer großen Rührschüssel vermengen. Das Wasser langsam hinzufügen und alles gut durchmischen. Nachdem ein grober Teig entstanden ist, das Olivenöl hinzufügen. Den Teig kurz kneten, nur so lange bis ein zusammenhängender Teig entsteht. Die Schüssel mit einem sauberen Tuch abdecken und den Teig an einem warmen Ort ruhen lassen, bis er mindestens doppelt so groß geworden ist.</description>
     </item>
   </channel>

@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soße on Marcos Rezepte</title>
-    <link>https://rezept.marcom.one/tags/so%C3%9Fe/</link>
+    <link>http://localhost:1313/tags/so%C3%9Fe/</link>
     <description>Recent content in Soße on Marcos Rezepte</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 10 Jun 2023 13:03:00 +0200</lastBuildDate>
-    <atom:link href="https://rezept.marcom.one/tags/so%C3%9Fe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 10:14:49 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/so%C3%9Fe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birria Tacos</title>
+      <link>http://localhost:1313/post/birria_tacos/</link>
+      <pubDate>Sat, 15 Feb 2025 10:14:49 +0100</pubDate>
+      <guid>http://localhost:1313/post/birria_tacos/</guid>
+      <description>Zutaten Für das Fleisch und die Soße 1,4 kg Rindfleisch (Chuck oder Hochrippe), in 5 cm große Stücke geschnitten 1 große Zwiebel, halbiert 4 Knoblauchzehen 4 Tomaten oder eine Dose gehackte Tomaten 2 getrocknete Ancho-Chilis, entstielt und entkernt 2 getrocknete Guajillo-Chilis, entstielt und entkernt 1 TL getrockneter Oregano 1 TL gemahlener Kreuzkümmel 1/2 TL Salz 1/4 TL schwarzer Pfeffer 1 Liter Rinderbrühe 1 EL Apfelessig 1 EL Limettensaft Für die Tacos 12 Mais-Tortillas Geriebener Käse (optional) 1/2 Bund gehackter Koriander Rote Zwiebeln, fein gehackt Zubereitung Soße vorbereiten Das Fleisch aus dem Kühlschrank nehmen, in kleinere Würfel schneiden und ca.</description>
+    </item>
     <item>
       <title>Basilikumpesto</title>
-      <link>https://rezept.marcom.one/post/basilikum-pesto/</link>
+      <link>http://localhost:1313/post/basilikum-pesto/</link>
       <pubDate>Sat, 10 Jun 2023 13:03:00 +0200</pubDate>
-      <guid>https://rezept.marcom.one/post/basilikum-pesto/</guid>
+      <guid>http://localhost:1313/post/basilikum-pesto/</guid>
       <description>Zutaten 40 g Pinienkerne 2 Knoblauchzehen 75 g frischer Basilikum 1/2 TL Salz 150 ml Olivenöl 50 g Parmesan Zubereitung Die Pinienkerne in einer Pfanne goldbraun rösten. Den Basilikum, das Salz und den Knoblauch in den Mixer oder Mörser geben und pürieren. Das Olivenöl dazugeben und die gerösteten Pinienkerne hinzufügen. Alles nochmals zerkleinern. Zum Schluss den Parmesan vorsichtig unterheben. Anmerkungen Das Pesto ist ca. 3-4 Tage im Kühlschrank haltbar. Für eine längere Aufbewahrung empfehle ich, den Parmesan wegzulassen und erst beim Zubereiten des Pesto Parmesan hinzuzufügen.</description>
     </item>
     <item>
       <title>Bolognese Soße</title>
-      <link>https://rezept.marcom.one/post/bolognese/</link>
+      <link>http://localhost:1313/post/bolognese/</link>
       <pubDate>Wed, 31 May 2023 09:11:12 +0200</pubDate>
-      <guid>https://rezept.marcom.one/post/bolognese/</guid>
+      <guid>http://localhost:1313/post/bolognese/</guid>
       <description>Zutaten 350 g Hackfleisch 1 Dose Tomaten 3 TL Tomatenmark 500 ml Fleischbrühe 3 TL Balsamicoessig 250 ml Milch Oregano Chili 1 große Zwiebel 2 Knoblauchzehen 1 Karotte 1 Stange Sellerie Weißwein Zubereitung Gemüse schneiden oder hacken. Hackfleisch in einem Topf anbraten. Brühe aufsetzen und zum Kochen bringen. Das Gemüse zum Hackfleisch geben und anschwitzen lassen. Den Weißwein hinzufügen und einkochen lassen. Tomaten, Tomatenmark, Brühe, Oregano, Chili und Balsamico zum Hackfleisch geben und eine Stunde köcheln lassen.</description>
     </item>
   </channel>

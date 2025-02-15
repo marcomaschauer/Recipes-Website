@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gebäck on Marcos Rezepte</title>
-    <link>https://rezept.marcom.one/tags/geb%C3%A4ck/</link>
+    <link>http://localhost:1313/tags/geb%C3%A4ck/</link>
     <description>Recent content in Gebäck on Marcos Rezepte</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Tue, 24 Oct 2023 22:40:05 +0200</lastBuildDate>
-    <atom:link href="https://rezept.marcom.one/tags/geb%C3%A4ck/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/geb%C3%A4ck/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Franzbrötchen</title>
-      <link>https://rezept.marcom.one/post/franzbroetchen/</link>
+      <link>http://localhost:1313/post/franzbroetchen/</link>
       <pubDate>Tue, 24 Oct 2023 22:40:05 +0200</pubDate>
-      <guid>https://rezept.marcom.one/post/franzbroetchen/</guid>
+      <guid>http://localhost:1313/post/franzbroetchen/</guid>
       <description>Zutaten 500 g Mehl 275 ml Milch 200 g weiche Butter 125 g brauner Zucker 75 g Zucker 1 gehäufter Esslöffel Zimt 1 Päckchen Vanillezucker ½ Würfel frische Hefe (ca. 20 g) Eine Prise Salz Zubereitung Hefeteig vorbereiten: Die Milch leicht erwärmen (sie sollte handwarm sein) und die Hefe, den weißen Zucker und Vanillezucker darin auflösen. In einer großen Schüssel Mehl und Salz mischen. 100g der weichen Butter dazu geben. Die aufgelöste Hefemischung hinzufügen und alles zu einem glatten Teig verkneten.</description>
     </item>
   </channel>

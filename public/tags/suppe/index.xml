@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suppe on Marcos Rezepte</title>
-    <link>https://rezept.marcom.one/tags/suppe/</link>
+    <link>http://localhost:1313/tags/suppe/</link>
     <description>Recent content in Suppe on Marcos Rezepte</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sat, 02 Mar 2024 17:29:27 +0100</lastBuildDate>
-    <atom:link href="https://rezept.marcom.one/tags/suppe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/suppe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ungarische Pilzsuppe</title>
-      <link>https://rezept.marcom.one/post/ungarische-pilzsuppe/</link>
+      <link>http://localhost:1313/post/ungarische-pilzsuppe/</link>
       <pubDate>Sat, 02 Mar 2024 17:29:27 +0100</pubDate>
-      <guid>https://rezept.marcom.one/post/ungarische-pilzsuppe/</guid>
+      <guid>http://localhost:1313/post/ungarische-pilzsuppe/</guid>
       <description>Zutaten 4 EL gesalzene Butter 1 große weiße Zwiebel, gehackt 450 g Pilze, geschnitten (z.B. Crimini, Champignons) 2 TL getrockneter Dill 1 TL getrockneter Thymian 1 EL süßes Paprikapulver 1 EL Zitronensaft 2 Knoblauchzehen, gerieben 2 ½ Tassen Brühe 2 EL Sojasauce 3 EL Mehl 240 ML Sahne oder Milch 100 ML saure Sahne oder Crème fraîche 3 EL gehackte Petersilie Zubereitung Butter in einem Suppentopf schmelzen. Zwiebeln ein paar Minuten anbraten, dann die Pilze hinzufügen.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salat on Marcos Rezepte</title>
-    <link>https://rezept.marcom.one/tags/salat/</link>
+    <link>http://localhost:1313/tags/salat/</link>
     <description>Recent content in Salat on Marcos Rezepte</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Wed, 14 Jun 2023 13:25:42 +0200</lastBuildDate>
-    <atom:link href="https://rezept.marcom.one/tags/salat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/salat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macaroni Salat</title>
-      <link>https://rezept.marcom.one/post/macaroni-salat/</link>
+      <link>http://localhost:1313/post/macaroni-salat/</link>
       <pubDate>Wed, 14 Jun 2023 13:25:42 +0200</pubDate>
-      <guid>https://rezept.marcom.one/post/macaroni-salat/</guid>
+      <guid>http://localhost:1313/post/macaroni-salat/</guid>
       <description>Zutaten 250 g Macaroni 250 g Fleischsalat 2 EL Mayonnaise 1 Dose Erbsen eine Handvoll saure Gurken Schnittlauch Zubereitung Zuerst die Nudeln kochen und abkühlen lassen. Die abgekühlten Nudeln mit dem Fleischsalat, den Gurken, den Erbsen, der Mayonnaise und dem Schnittlauch vermengen. Mit Salz und Pfeffer abschmecken. Bei Bedarf mehr Mayonnaise hinzufügen, um die Cremigkeit zu erhöhen. Anmerkungen Dieses Gericht lässt sich ganz einfach auch vegan zubereiten. Einfach den Fleischsalat und die Mayonnaise durch vegane Alternativen ersetzen.</description>
     </item>
   </channel>

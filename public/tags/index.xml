@@ -2,283 +2,283 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Marcos Rezepte</title>
-    <link>https://rezept.marcom.one/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Marcos Rezepte</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 05 Mar 2024 19:48:52 +0100</lastBuildDate>
-    <atom:link href="https://rezept.marcom.one/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 10:14:49 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Beilage</title>
-      <link>https://rezept.marcom.one/tags/beilage/</link>
-      <pubDate>Tue, 05 Mar 2024 19:48:52 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/beilage/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fermentieren</title>
-      <link>https://rezept.marcom.one/tags/fermentieren/</link>
-      <pubDate>Tue, 05 Mar 2024 19:48:52 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/fermentieren/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Koreanisch</title>
-      <link>https://rezept.marcom.one/tags/koreanisch/</link>
-      <pubDate>Tue, 05 Mar 2024 19:48:52 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/koreanisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Curry</title>
-      <link>https://rezept.marcom.one/tags/curry/</link>
-      <pubDate>Sat, 02 Mar 2024 17:30:24 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/curry/</guid>
+      <title>Fleisch</title>
+      <link>http://localhost:1313/tags/fleisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fleisch/</guid>
       <description></description>
     </item>
     <item>
       <title>Hauptgericht</title>
-      <link>https://rezept.marcom.one/tags/hauptgericht/</link>
-      <pubDate>Sat, 02 Mar 2024 17:30:24 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/hauptgericht/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kichererbsen</title>
-      <link>https://rezept.marcom.one/tags/kichererbsen/</link>
-      <pubDate>Sat, 02 Mar 2024 17:30:24 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/kichererbsen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pilze</title>
-      <link>https://rezept.marcom.one/tags/pilze/</link>
-      <pubDate>Sat, 02 Mar 2024 17:29:27 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/pilze/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Suppe</title>
-      <link>https://rezept.marcom.one/tags/suppe/</link>
-      <pubDate>Sat, 02 Mar 2024 17:29:27 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/suppe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Backen</title>
-      <link>https://rezept.marcom.one/tags/backen/</link>
-      <pubDate>Sat, 24 Feb 2024 10:39:46 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/backen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kuchen</title>
-      <link>https://rezept.marcom.one/tags/kuchen/</link>
-      <pubDate>Sat, 24 Feb 2024 10:39:46 +0100</pubDate>
-      <guid>https://rezept.marcom.one/tags/kuchen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gebäck</title>
-      <link>https://rezept.marcom.one/tags/geb%C3%A4ck/</link>
-      <pubDate>Tue, 24 Oct 2023 22:40:05 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/geb%C3%A4ck/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dahl</title>
-      <link>https://rezept.marcom.one/tags/dahl/</link>
-      <pubDate>Sat, 21 Oct 2023 14:41:06 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/dahl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Indisch</title>
-      <link>https://rezept.marcom.one/tags/indisch/</link>
-      <pubDate>Sat, 21 Oct 2023 14:41:06 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/indisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vegan</title>
-      <link>https://rezept.marcom.one/tags/vegan/</link>
-      <pubDate>Sat, 21 Oct 2023 14:41:06 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/vegan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vegetarisch</title>
-      <link>https://rezept.marcom.one/tags/vegetarisch/</link>
-      <pubDate>Sat, 21 Oct 2023 14:41:06 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/vegetarisch/</guid>
+      <link>http://localhost:1313/tags/hauptgericht/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hauptgericht/</guid>
       <description></description>
     </item>
     <item>
       <title>Mexikanisch</title>
-      <link>https://rezept.marcom.one/tags/mexikanisch/</link>
-      <pubDate>Fri, 20 Oct 2023 17:14:39 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/mexikanisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Brot</title>
-      <link>https://rezept.marcom.one/tags/brot/</link>
-      <pubDate>Sun, 15 Oct 2023 20:00:53 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/brot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Italienisch</title>
-      <link>https://rezept.marcom.one/tags/italienisch/</link>
-      <pubDate>Sun, 15 Oct 2023 20:00:53 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/italienisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tomaten</title>
-      <link>https://rezept.marcom.one/tags/tomaten/</link>
-      <pubDate>Sun, 15 Oct 2023 20:00:53 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/tomaten/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nachtisch</title>
-      <link>https://rezept.marcom.one/tags/nachtisch/</link>
-      <pubDate>Sun, 15 Oct 2023 19:20:20 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/nachtisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pie</title>
-      <link>https://rezept.marcom.one/tags/pie/</link>
-      <pubDate>Sun, 15 Oct 2023 19:20:20 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/pie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Amerikanisch</title>
-      <link>https://rezept.marcom.one/tags/amerikanisch/</link>
-      <pubDate>Sun, 15 Oct 2023 17:20:10 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/amerikanisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Burger</title>
-      <link>https://rezept.marcom.one/tags/burger/</link>
-      <pubDate>Sun, 15 Oct 2023 17:20:10 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/burger/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fisch</title>
-      <link>https://rezept.marcom.one/tags/fisch/</link>
-      <pubDate>Sun, 15 Oct 2023 17:19:30 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/fisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Frittieren</title>
-      <link>https://rezept.marcom.one/tags/frittieren/</link>
-      <pubDate>Sun, 15 Oct 2023 17:19:30 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/frittieren/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teig</title>
-      <link>https://rezept.marcom.one/tags/teig/</link>
-      <pubDate>Sun, 15 Oct 2023 17:19:30 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/teig/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pizza</title>
-      <link>https://rezept.marcom.one/tags/pizza/</link>
-      <pubDate>Sun, 15 Oct 2023 17:17:53 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/pizza/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kekse</title>
-      <link>https://rezept.marcom.one/tags/kekse/</link>
-      <pubDate>Sat, 24 Jun 2023 16:17:31 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/kekse/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fleisch</title>
-      <link>https://rezept.marcom.one/tags/fleisch/</link>
-      <pubDate>Wed, 14 Jun 2023 13:25:42 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/fleisch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pasta</title>
-      <link>https://rezept.marcom.one/tags/pasta/</link>
-      <pubDate>Wed, 14 Jun 2023 13:25:42 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/pasta/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Salat</title>
-      <link>https://rezept.marcom.one/tags/salat/</link>
-      <pubDate>Wed, 14 Jun 2023 13:25:42 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/salat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Snack</title>
-      <link>https://rezept.marcom.one/tags/snack/</link>
-      <pubDate>Sat, 10 Jun 2023 17:15:51 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/snack/</guid>
+      <link>http://localhost:1313/tags/mexikanisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mexikanisch/</guid>
       <description></description>
     </item>
     <item>
       <title>Soße</title>
-      <link>https://rezept.marcom.one/tags/so%C3%9Fe/</link>
-      <pubDate>Sat, 10 Jun 2023 13:03:00 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/so%C3%9Fe/</guid>
+      <link>http://localhost:1313/tags/so%C3%9Fe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/so%C3%9Fe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beilage</title>
+      <link>http://localhost:1313/tags/beilage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/beilage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fermentieren</title>
+      <link>http://localhost:1313/tags/fermentieren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fermentieren/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Koreanisch</title>
+      <link>http://localhost:1313/tags/koreanisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/koreanisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curry</title>
+      <link>http://localhost:1313/tags/curry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/curry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kichererbsen</title>
+      <link>http://localhost:1313/tags/kichererbsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kichererbsen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pilze</title>
+      <link>http://localhost:1313/tags/pilze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pilze/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suppe</title>
+      <link>http://localhost:1313/tags/suppe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/suppe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Backen</title>
+      <link>http://localhost:1313/tags/backen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/backen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kuchen</title>
+      <link>http://localhost:1313/tags/kuchen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kuchen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gebäck</title>
+      <link>http://localhost:1313/tags/geb%C3%A4ck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/geb%C3%A4ck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dahl</title>
+      <link>http://localhost:1313/tags/dahl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dahl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indisch</title>
+      <link>http://localhost:1313/tags/indisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/indisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegan</title>
+      <link>http://localhost:1313/tags/vegan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vegan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetarisch</title>
+      <link>http://localhost:1313/tags/vegetarisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vegetarisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brot</title>
+      <link>http://localhost:1313/tags/brot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/brot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italienisch</title>
+      <link>http://localhost:1313/tags/italienisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/italienisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tomaten</title>
+      <link>http://localhost:1313/tags/tomaten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tomaten/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nachtisch</title>
+      <link>http://localhost:1313/tags/nachtisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nachtisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pie</title>
+      <link>http://localhost:1313/tags/pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amerikanisch</title>
+      <link>http://localhost:1313/tags/amerikanisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/amerikanisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Burger</title>
+      <link>http://localhost:1313/tags/burger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/burger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fisch</title>
+      <link>http://localhost:1313/tags/fisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fisch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frittieren</title>
+      <link>http://localhost:1313/tags/frittieren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/frittieren/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teig</title>
+      <link>http://localhost:1313/tags/teig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/teig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pizza</title>
+      <link>http://localhost:1313/tags/pizza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pizza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kekse</title>
+      <link>http://localhost:1313/tags/kekse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kekse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pasta</title>
+      <link>http://localhost:1313/tags/pasta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pasta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salat</title>
+      <link>http://localhost:1313/tags/salat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/salat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snack</title>
+      <link>http://localhost:1313/tags/snack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/snack/</guid>
       <description></description>
     </item>
     <item>
       <title>Asiatisch</title>
-      <link>https://rezept.marcom.one/tags/asiatisch/</link>
-      <pubDate>Thu, 01 Jun 2023 16:17:55 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/asiatisch/</guid>
+      <link>http://localhost:1313/tags/asiatisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/asiatisch/</guid>
       <description></description>
     </item>
     <item>
       <title>Teigtaschen</title>
-      <link>https://rezept.marcom.one/tags/teigtaschen/</link>
-      <pubDate>Thu, 01 Jun 2023 16:17:55 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/teigtaschen/</guid>
+      <link>http://localhost:1313/tags/teigtaschen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/teigtaschen/</guid>
       <description></description>
     </item>
     <item>
       <title>Tortilla</title>
-      <link>https://rezept.marcom.one/tags/tortilla/</link>
-      <pubDate>Thu, 01 Jun 2023 16:01:24 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/tortilla/</guid>
+      <link>http://localhost:1313/tags/tortilla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tortilla/</guid>
       <description></description>
     </item>
     <item>
       <title>Andere</title>
-      <link>https://rezept.marcom.one/tags/andere/</link>
-      <pubDate>Thu, 01 Jun 2023 15:45:04 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/andere/</guid>
+      <link>http://localhost:1313/tags/andere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/andere/</guid>
       <description></description>
     </item>
     <item>
       <title>Chili</title>
-      <link>https://rezept.marcom.one/tags/chili/</link>
-      <pubDate>Thu, 01 Jun 2023 15:45:04 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/chili/</guid>
+      <link>http://localhost:1313/tags/chili/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chili/</guid>
       <description></description>
     </item>
     <item>
       <title>Öl</title>
-      <link>https://rezept.marcom.one/tags/%C3%B6l/</link>
-      <pubDate>Thu, 01 Jun 2023 15:45:04 +0200</pubDate>
-      <guid>https://rezept.marcom.one/tags/%C3%B6l/</guid>
+      <link>http://localhost:1313/tags/%C3%B6l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%C3%B6l/</guid>
       <description></description>
     </item>
   </channel>
