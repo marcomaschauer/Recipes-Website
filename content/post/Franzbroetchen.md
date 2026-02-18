@@ -1,7 +1,7 @@
 ---
 title: "Franzbrötchen"
 date: 2023-10-24T22:40:05+02:00
-tags: ["Backen", "Gebäck"]
+tags: ["Nachtisch", "Vegetarisch"]
 image : "/img/posts/franzbroetchen.jpg"
 Description  : "Das Franzbrötchen entstand in Hamburg während der französischen Besatzung, als Bäcker das Croissant adaptierten und mit Zimt und Zucker verfeinerten."
 ---

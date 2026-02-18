@@ -1,7 +1,7 @@
 ---
 title: "Macaroni Salat"
 date: 2023-06-14T13:25:42+02:00
-tags: ["Salat", "Fleisch", "Vegan", "Pasta"]
+tags: ["Beilage", "Fleisch"]
 image : "/img/posts/macaroni-salat.jpg"
 Description  : "Macaroni-Salat ist, wie der Name schon sagt, ein Nudelsalat mit gekochten Macaroni und wird in der Regel mit Mayonnaise zubereitet."
 ---

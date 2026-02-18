@@ -2,7 +2,7 @@
 title: "Bruscetta"
 date: 2023-10-15T20:00:53+02:00
 image : "/img/posts/bruscetta.jpg"
-tags: ["Brot", "Vegan", "Tomaten", "Italienisch"]
+tags: ["Snack", "Vegan"]
 Description: Bruscetta stammt ursprünglich aus Italien und der Name leitet sich vom italienischen Wort "bruscare" ab, was "anrösten" bedeutet, in Bezug auf das geröstete Brot, auf dem die Tomatenmischung serviert wird.
 ---
 

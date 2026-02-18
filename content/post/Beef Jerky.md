@@ -1,7 +1,7 @@
 ---
 title: "Beef Jerky"
 date: 2023-06-10T17:15:51+02:00
-tags: ["Fleisch", "Snack"]
+tags: ["Snack", "Fleisch"]
 image : "/img/posts/jerky.jpg"
 Description  : "Beef Jerky ist ein Trockenfleisch der amerikanischen Küche aus mariniertem oder gesalzenem, in dünne Streifen geschnittenem Rindfleisch."
 ---

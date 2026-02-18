@@ -2,7 +2,7 @@
 title: "Dahl"
 date: 2023-10-21T14:41:06+02:00
 image : "/img/posts/linsen-dahl.jpg"
-tags: ["Indisch", "Vegetarisch", "Vegan", "Dahl"]
+tags: ["Hauptgericht", "Vegan"]
 Description: Dal oder Dahl ist nicht nur ein Gericht, sondern bezeichnet auch die Hülsenfrüchte (meist Linsen) selbst in Indien. Es ist ein Grundnahrungsmittel in vielen Teilen des Landes und wird oft mit Reis oder Brot serviert.
 ---
 

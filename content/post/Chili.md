@@ -2,7 +2,7 @@
 title: "Veganes Chili"
 date: 2023-10-20T17:14:39+02:00
 image : "/img/posts/chili.jpg"
-tags: ["Mexikanisch", "Vegetarisch", "Vegan"]
+tags: ["Hauptgericht", "Vegan"]
 Description: Das Gericht "Chili con Carne" wurde im 19. Jahrhundert in Texas populär und Texas hat es 1977 offiziell zu seinem "State Dish" erklärt.
 ---
 ### Zutaten:

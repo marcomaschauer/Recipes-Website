@@ -1,7 +1,7 @@
 ---
 title: "New York Style Cheesecake"
 date: 2024-02-24T10:39:46+01:00
-tags: ["Backen", "Kuchen"]
+tags: ["Nachtisch", "Vegetarisch"]
 image : "/img/posts/nystylecheesecake.jpg"
 Description  : "Der New York Style Cheesecake ist besonders für seine unglaublich cremige Textur, den reichen Geschmack und die dichte, satte Konsistenz bekannt, die ihn von anderen Cheesecake-Varianten abhebt."
 ---

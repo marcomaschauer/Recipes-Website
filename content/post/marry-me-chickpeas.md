@@ -1,7 +1,7 @@
 ---
 title: "Marry Me Chickpeas"
 date: 2024-03-02T17:30:24+01:00
-tags: ["Kichererbsen", "Curry", "Hauptgericht"]
+tags: ["Hauptgericht", "Vegetarisch"]
 image : "/img/posts/marry-me-chickpeas.jpg"
 Description  : "Kichererbsen, Hauptzutat in Marry Me Chickpeas, wurden schon vor über 7.500 Jahren im Nahen Osten angebaut und gehören zu den ältesten kultivierten Hülsenfrüchten der Welt."
 ---

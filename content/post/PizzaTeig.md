@@ -2,7 +2,7 @@
 title: "Pizzateig"
 date: 2023-10-15T17:17:53+02:00
 image : "/img/posts/pizza_dough.jpg"
-tags: ["Backen", "Teig", "Vegan", "Pizza", "Italienisch"]
+tags: ["Beilage", "Vegan"]
 Description: Die moderne Pizza, wie wir sie kennen, hat ihren Ursprung im 19. Jahrhundert in Neapel, Italien. 🍕😊
 ---
 

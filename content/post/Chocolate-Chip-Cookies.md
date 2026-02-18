@@ -1,7 +1,7 @@
 ---
 title: "Chocolate Chip Cookies"
 date: 2023-06-24T16:17:31+02:00
-tags: ["Backen", "Kekse", "Vegetarisch", "Nachtisch"]
+tags: ["Nachtisch", "Vegetarisch"]
 image : "/img/posts/choco-cookies.jpg"
 Description  : "Ein Chocolate Chip Cookie ist ein Tropfenkeks, der Schokoladenstückchen als charakteristische Zutat enthält."
 ---

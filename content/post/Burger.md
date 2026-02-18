@@ -2,7 +2,7 @@
 title: "Veggie Burger"
 date: 2023-10-15T17:20:10+02:00
 image : "/img/posts/burger.jpg"
-tags: ["Burger", "Vegetarisch", "Amerikanisch"]
+tags: ["Hauptgericht", "Vegetarisch"]
 Description: Austernpilze bieten mit ihrer fleischigen Textur nicht nur eine leckere Alternative zu Fleisch, sondern sind auch reich an Protein, Ballaststoffen und B-Vitaminen.
 ---
 

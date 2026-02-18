@@ -1,7 +1,7 @@
 ---
 title: "Shawarma"
 date: 2023-06-01T16:01:24+02:00
-tags: ["Fleisch", "Hauptgericht", "Tortilla"]
+tags: ["Hauptgericht", "Fleisch"]
 image : "/img/posts/shawarma.jpg"
 Description  : "Shawarma ist ein Fleischgericht der arabischen Küche. Genau wie Döner wird Shawarma klassisch auf einem Drehspieß gegart."
 ---

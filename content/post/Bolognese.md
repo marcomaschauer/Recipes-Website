@@ -1,7 +1,7 @@
 ---
 title: "Bolognese Soße"
 date: 2023-05-31T09:11:12+02:00
-tags: ["Fleisch", "Soße", "Hauptgericht"]
+tags: ["Hauptgericht", "Fleisch"]
 image : "/img/posts/bolognese.jpg"
 Description  : "Wie bei vielem ist auch beim Kochen weniger mehr. Das beschreibt die Bolognesesauce am besten!"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Chili Öl"
 date: 2023-06-01T15:45:04+02:00
-tags: ["Öl", "Chili", "Andere"]
+tags: ["Beilage", "Vegan"]
 image : "/img/posts/chili_oil.jpg"
 Description: "Chiliöl ist eines der besten Öle, die man selbst machen kann. Im Geschmack einfach unglaublich gut."
 ---

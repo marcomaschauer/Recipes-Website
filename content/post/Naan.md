@@ -1,7 +1,7 @@
 ---
 title: "Naan"
 date: 2023-05-31T09:11:12+02:00
-tags: ["Backen", "Brot", "Beilage"]
+tags: ["Beilage", "Vegetarisch"]
 image : "/img/posts/naan.jpg"
 Description  : "Naan ist ein aus Indien stammendes Brot. Es wird meist zu Curry serviert, kann aber auch als Vorspeise verkostet werden."
 ---

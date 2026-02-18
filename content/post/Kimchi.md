@@ -1,7 +1,7 @@
 ---
 title: "Kimchi"
 date: 2024-03-05T19:48:52+01:00
-tags: ["Fermentieren", "Beilage", "koreanisch"]
+tags: ["Beilage", "Vegan"]
 image : "/img/posts/kimchi.jpg"
 Description  : "Ein traditionelles koreanisches Gericht, das für seine intensiven Aromen und gesundheitlichen Vorteile bekannt ist."
 ---

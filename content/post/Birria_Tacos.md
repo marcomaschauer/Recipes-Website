@@ -1,7 +1,7 @@
 ---
 title: "Birria Tacos"
 date: 2025-02-15T10:14:49+01:00
-tags: ["Fleisch", "Soße", "Hauptgericht", "mexikanisch"]
+tags: ["Hauptgericht", "Fleisch"]
 image : "/img/posts/birria_tacos.jpg"
 Description  : "Birria Tacos stammen ursprünglich aus dem mexikanischen Bundesstaat Jalisco und wurden traditionell aus Ziegenfleisch zubereitet, bevor Rindfleisch als beliebtere Variante weltweit bekannt wurde!"
 ---

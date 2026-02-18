@@ -1,7 +1,7 @@
 ---
 title: "Basilikumpesto"
 date: 2023-06-10T13:03:00+02:00
-tags: ["Soße", "Pasta", "Vegetarisch", "Hauptgericht"]
+tags: ["Beilage", "Vegetarisch"]
 image : "/img/posts/basilikum-pesto.jpg"
 Description  : "Pesto ist eine ungekochte Paste, die in der italienischen Küche meist mit Nudeln vermischt gereicht wird."
 ---

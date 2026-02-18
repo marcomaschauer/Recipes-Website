@@ -1,7 +1,7 @@
 ---
 title: "Dumplings"
 date: 2023-06-01T16:17:55+02:00
-tags: ["Asiatisch", "Fleisch", "Hauptgericht", "Teigtaschen"]
+tags: ["Hauptgericht", "Fleisch"]
 image : "/img/posts/dumplings.jpg"
 Description  : "Dumplings sind im asiatischen Raum ein weit verbreitetes Gericht. Diese Teigtaschen sind meistens mit Schwein oder Tofu gefüllt."
 ---

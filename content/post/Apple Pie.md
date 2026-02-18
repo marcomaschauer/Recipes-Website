@@ -1,7 +1,7 @@
 ---
 title: "Apple Pie"
 date: 2023-06-10T12:21:05+02:00
-tags: ["Backen", "Kuchen", "Pie", "Vegetarisch", "Nachtisch"]
+tags: ["Nachtisch", "Vegetarisch"]
 image : "/img/posts/apple-pie.jpg"
 Description  : "Apple Pie ist der wohl bekannteste Kuchen in Amerika"
 ---

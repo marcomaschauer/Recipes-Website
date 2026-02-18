@@ -1,7 +1,7 @@
 ---
 title: "Brownies"
 date: 2023-06-10T17:16:28+02:00
-tags: ["Backen", "Nachtisch"]
+tags: ["Nachtisch", "Vegetarisch"]
 image : "/img/posts/brownie.jpg"
 Description  : "Ein Brownie ist ein traditionelles Gebäck der US-amerikanischen Küche und zeichnet sich durch sein weiches inneres aus."
 ---

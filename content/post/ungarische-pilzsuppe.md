@@ -1,7 +1,7 @@
 ---
 title: "Ungarische Pilzsuppe"
 date: 2024-03-02T17:29:27+01:00
-tags: ["Pilze", "Suppe", "Hauptgericht"]
+tags: ["Suppe", "Vegetarisch"]
 image : "/img/posts/pilzsuppe.jpg"
 Description  : "Die ungarische Pilzsuppe, bekannt für ihre reichhaltige Cremigkeit und das charakteristische Paprikapulver, ist ein beliebter Wohlfühlklassiker in der traditionellen ungarischen Küche."
 ---

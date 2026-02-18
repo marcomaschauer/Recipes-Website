@@ -1,7 +1,7 @@
 ---
 title: "Weizenbrot"
 date: 2023-06-10T17:16:08+02:00
-tags: ["Brot", "Backen"]
+tags: ["Beilage", "Vegetarisch"]
 image : "/img/posts/brot.jpg"
 Description  : "Brot ist ein traditionelles Nahrungsmittel, das aus einem Teig aus gemahlenem Getreide, Wasser, einem Triebmittel und meist weiteren Zutaten gebacken wird."
 ---
