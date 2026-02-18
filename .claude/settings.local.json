@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "Bash(ls:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nUnify recipe tags to Gericht + Ernährung taxonomy\n\nReplace all ad-hoc tags across 25 published recipes with a consistent\ntwo-category system: course \\(Hauptgericht, Nachtisch, Beilage, Snack,\nSuppe\\) and dietary \\(Vegetarisch, Vegan, Fleisch, Fisch\\).\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}

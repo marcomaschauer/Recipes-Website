@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="tag-header">
+  <h1 class="tag-header__title">{{ .Title }}</h1>
+  <p class="tag-header__count">{{ len .Pages }} {{ i18n "recipes" }}</p>
+</div>
+<section class="recipe-grid">
+  {{- range .Pages }}
+  {{ partial "recipe-card.html" . }}
+  {{- end }}
+</section>
+{{ end }}

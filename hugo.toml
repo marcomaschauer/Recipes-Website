@@ -1,4 +1,21 @@
 baseURL = 'https://rezept.marcom.one/'
 languageCode = 'de'
+defaultContentLanguage = 'de'
 title = 'Marcos Rezepte'
-theme = 'lightbi'
+theme = 'dunkelkueche'
+
+[params]
+  mainSections = ['post']
+
+[taxonomies]
+  tag = 'tags'
+
+[[menu.main]]
+  name = 'Rezepte'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'Tags'
+  url = '/tags/'
+  weight = 2

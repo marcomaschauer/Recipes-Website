@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="terms-page">
+  <h1>{{ i18n "allTags" }}</h1>
+  <ul class="terms-list">
+    {{- range .Data.Terms.Alphabetical }}
+    <li>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }} <span class="count">({{ .Count }})</span></a>
+    </li>
+    {{- end }}
+  </ul>
+</div>
+{{ end }}

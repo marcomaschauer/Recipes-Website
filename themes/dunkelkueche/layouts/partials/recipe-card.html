@@ -1,0 +1,25 @@
+<article class="recipe-card"
+  data-title="{{ .Title | lower }}"
+  data-tags="{{ delimit .Params.tags " " | lower }}"
+  data-description="{{ .Description | lower }}">
+  <a href="{{ .Permalink }}">
+    <div class="recipe-card__img">
+      {{- with .Params.image }}
+      <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      {{- end }}
+    </div>
+    <div class="recipe-card__body">
+      <h2 class="recipe-card__title">{{ .Title }}</h2>
+      <p class="recipe-card__desc">{{ .Description }}</p>
+    </div>
+  </a>
+  {{- with .Params.tags }}
+  <div class="recipe-card__body">
+    <ul class="recipe-card__tags">
+      {{- range first 3 . }}
+      <li><a href="{{ "tags/" | absURL }}{{ . | urlize }}/">{{ . }}</a></li>
+      {{- end }}
+    </ul>
+  </div>
+  {{- end }}
+</article>

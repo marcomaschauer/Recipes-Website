@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{- with .Params.image }}
+<div class="recipe-hero">
+  <img src="{{ . }}" alt="{{ $.Title }}">
+  <div class="recipe-hero__overlay">
+    <h1 class="recipe-hero__title">{{ $.Title }}</h1>
+  </div>
+</div>
+{{- end }}
+<article class="recipe-content">
+  {{- with .Description }}
+  <p class="recipe-content__desc">{{ . }}</p>
+  {{- end }}
+  {{- with .Params.tags }}
+  <ul class="recipe-content__tags">
+    {{- range . }}
+    <li><a href="{{ "tags/" | absURL }}{{ . | urlize }}/">{{ . }}</a></li>
+    {{- end }}
+  </ul>
+  {{- end }}
+  {{ .Content }}
+  <nav class="recipe-nav">
+    {{- with .PrevInSection }}
+    <a href="{{ .Permalink }}">&larr; {{ .Title }}</a>
+    {{- end }}
+    {{- with .NextInSection }}
+    <a href="{{ .Permalink }}" class="recipe-nav__next">{{ .Title }} &rarr;</a>
+    {{- end }}
+  </nav>
+</article>
+{{ end }}

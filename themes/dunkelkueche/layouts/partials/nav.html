@@ -1,0 +1,10 @@
+<nav class="navbar">
+  <a href="/" class="navbar__brand">{{ .Site.Title }}</a>
+  <input type="checkbox" id="nav-toggle" class="navbar__toggle" aria-hidden="true">
+  <label for="nav-toggle" class="navbar__hamburger" aria-label="Menu"><span></span></label>
+  <ul class="navbar__links">
+    {{- range .Site.Menus.main }}
+    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{- end }}
+  </ul>
+</nav>

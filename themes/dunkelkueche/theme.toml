@@ -1,0 +1,9 @@
+name = "Dunkelkueche"
+license = "MIT"
+licenselink = ""
+description = "A dark, elegant recipe theme for Hugo"
+tags = ["dark", "recipes", "responsive", "minimal"]
+min_version = "0.112.0"
+
+[author]
+  name = "Marco"

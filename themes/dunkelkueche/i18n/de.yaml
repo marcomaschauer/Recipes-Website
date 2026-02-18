@@ -1,0 +1,14 @@
+heroSubtitle:
+  other: "Entdecke leckere Rezepte"
+searchPlaceholder:
+  other: "Rezept suchen..."
+noResults:
+  other: "Keine Rezepte gefunden."
+recipes:
+  other: "Rezepte"
+allTags:
+  other: "Alle Tags"
+notFoundMsg:
+  other: "Diese Seite wurde leider nicht gefunden."
+backHome:
+  other: "Zur Startseite"
