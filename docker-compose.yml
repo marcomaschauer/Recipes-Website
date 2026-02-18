@@ -6,11 +6,11 @@ services:
       - "traefik.enable=true"
       - "traefik.http.routers.rezept.rule=Host(`rezept.marcom.one`)"
     networks:
-      - traefik_web
+      - pangolin
     ports:
       - 85:80
     restart: unless-stopped
 
 networks:
-  traefik_web:
+  pangolin:
     external: true
